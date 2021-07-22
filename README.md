@@ -8,4 +8,4 @@ const Alexs = {
   tools: [React, Node, Styled-Components, SQL, Mongo]
 }
 ```
-you can find me:
+
