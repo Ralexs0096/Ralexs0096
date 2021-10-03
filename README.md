@@ -4,8 +4,8 @@
 ```js
 const Alexs = {
   pronouns: "Ralexs" | "Racu",
-  code: [Javascript, HTML, CSS, Python, C#],
-  tools: [React, Node, Styled-Components, SQL, Mongo]
+  code: [Javascript, Python, HTML, CSS],
+  tools: [React, Vue, Node, Styled-Components, SQL, Mongo]
 }
 ```
 
