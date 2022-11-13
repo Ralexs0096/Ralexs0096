@@ -6,9 +6,9 @@ const Alexs = {
   pronouns: "Ralexs",
   code: [Javascript, Typescript, Python, HTML5, CSS3],
   tools: {
-    "frontend": [React, React Native, Vue, Tailwind, Styled-Components],
-    "backend": [Node, Mongo, Express, Nest, Fastify, FastAPI],
-    "others": [Keystone, Nextjs, GraphQl]
+    "frontend": [React, Vue, Tailwind],
+    "backend": [Node, Express, Nest, Fastify, FastAPI],
+    "others": [Nextjs, GraphQl, MongoDb, MSSQL, React Native]
   }
 }
 ```
