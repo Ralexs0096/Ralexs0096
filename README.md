@@ -47,8 +47,7 @@
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/Fastify-white?style=for-the-badge&logo=fastify&logoColor=black">
   <img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B">
-  <img src="https://img.shields.io/badge/Mongoose-00C58E?style=for-the-badge">
-  <img src="https://img.shields.io/badge/MSSQL-005C84?style=for-the-badge&logo=mssql&logoColor=white">
+  <img src="https://img.shields.io/badge/MSSQL-2f2f2f?style=for-the-badge&logo=mssql&logoColor=white">
 </p>
 <h4>Tools & Technologies</h4>
 <p>
@@ -62,9 +61,11 @@
 
 ### 👨🏻‍💻 I'm currently learning...
  
-- Nest
-- FastApi
-- Flutter
+<p>
+<img src="https://img.shields.io/badge/Nest-ed2945?style=for-the-badge&logo=nestjs&logoColor=white">
+<img src="https://img.shields.io/badge/FastAPI-009485?style=for-the-badge&logo=fastapi&logoColor=white">
+<img src="https://img.shields.io/badge/Flutter-60caf6?style=for-the-badge&logo=flutter&logoColor=white">
+</p>
 </br>
 
 ### You can find me here 🔎
