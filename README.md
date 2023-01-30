@@ -5,10 +5,10 @@
 ```js
 {
   firstName: 'Alexander',
-  lastname: 'Ruiz',
+  lastName: 'Ruiz',
   role: 'Software Developer',
   pronouns: 'Ralexs',
-  passion: coffee
+  passion: 'Coffee'
 }
 ```
 
