@@ -1,7 +1,7 @@
 ### Hey! I'm Alexs 👋 
 #### I'm a developer who never stops learning new things. 😃
 
-## About me in Code
+## About me
 ```js
 {
   firstName: 'Alexander',
