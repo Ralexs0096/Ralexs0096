@@ -7,7 +7,6 @@
   firstName: 'Alexander',
   lastName: 'Ruiz',
   role: 'Software Developer',
-  pronouns: 'Ralexs',
   passion: 'Coffee'
 }
 ```
