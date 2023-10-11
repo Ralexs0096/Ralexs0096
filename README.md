@@ -7,7 +7,7 @@
   firstName: 'Alexander',
   lastName: 'Ruiz',
   role: 'Software Developer',
-  passion: ['Coding', 'Coffee', 'Music']
+  passion: ['Coding', 'Coffee', 'Music', 'Baseball', 'Play Guitar']
 }
 ```
 
