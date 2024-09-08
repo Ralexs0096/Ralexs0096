@@ -1,4 +1,4 @@
-### Hey! I'm Alexs 👋
+### Hey! I'm Alex 👋
 
 #### Passionate Developer | Lifelong Learner | Team Player
 
