@@ -43,6 +43,7 @@ I'm a software developer who thrives on challenges and is always eager to learn 
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
   <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white">
   <img src="https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/GitLab-E24329?style=for-the-badge&logo=gitlab&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 
@@ -64,11 +65,11 @@ I'm a software developer who thrives on challenges and is always eager to learn 
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Nest-ed2945?style=for-the-badge&logo=nestjs&logoColor=white">
   <img src="https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white">
-
   <img src="https://img.shields.io/badge/Flutter-60caf6?style=for-the-badge&logo=flutter&logoColor=white">
   <img src="https://img.shields.io/badge/FastAPI-009485?style=for-the-badge&logo=fastapi&logoColor=white">
   <img src="https://img.shields.io/badge/trpc-2596BE?style=for-the-badge&logo=trpc&logoColor=white">
   <img src="https://img.shields.io/badge/Hono-00ADD8?style=for-the-badge&logo=hono&logoColor=white">
+<img src="https://img.shields.io/badge/Drizzle-9FEFDF?style=for-the-badge&logo=drizzle&logoColor=black">
 
 </p>
 
