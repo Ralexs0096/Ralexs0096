@@ -11,7 +11,7 @@ I'm a software developer who thrives on challenges and is always eager to learn 
   firstName: 'Alexander',
   lastName: 'Ruiz',
   role: 'Software Developer',
-  passion: ['Coding', 'Coffee', 'Music', 'Baseball', 'Play Guitar']
+  passions: ['Coding', 'Coffee', 'Music', 'Baseball', 'Play Guitar']
 }
 ```
 
@@ -88,6 +88,8 @@ I'm a software developer who thrives on challenges and is always eager to learn 
   <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
 
 </p>
+
+![snake gif](https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
 
 ### You can find me here 🔎
 
